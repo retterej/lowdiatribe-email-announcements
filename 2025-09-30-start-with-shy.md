@@ -1,10 +1,7 @@
-# Email Announcement - Start with shy
-
-**Subject**: New reflection: Start with shy
-
-**Scheduled**: September 30, 2025 @ 1:00 PM CDT
-
-**Body**:
+---
+subject: New reflection: Start with shy
+scheduled: September 30, 2025 @ 1:00 PM CDT
+---
 
 Hi {{firstName}},
 
