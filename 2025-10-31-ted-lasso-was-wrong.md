@@ -1,10 +1,6 @@
-# Email Announcement: Ted Lasso was wrong
-
-**Subject**: New reflection: Ted Lasso was wrong
-
-**Scheduled**: 2025-10-31 @ 3:00 PM CDT
-
-**Body**:
+---
+subject: New reflection: Ted Lasso was wrong
+---
 
 Hi {{firstName}},
 
