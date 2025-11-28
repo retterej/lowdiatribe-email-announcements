@@ -27,9 +27,9 @@ Some tools should be invisible. A light switch has one job: turn the lights on o
 
 "The best solutions earn trust through reliability, not promises of flash."
 
-Read the full reflection: [When smart becomes friction](https://lowdiatribe.net/r/when-smart-becomes-friction)
+Read the full reflection: [When smart becomes friction](https://lowdiatribe.net/r/friction)
 
-Listen to the audio transmission: [When smart becomes friction](https://lowdiatribe.net/a/when-smart-becomes-friction) or stay connected through the [audio RSS feed](https://transmission.lowdiatribe.net/feed.xml).
+Listen to the audio transmission: [When smart becomes friction](https://lowdiatribe.net/a/friction) or stay connected through the [audio RSS feed](https://transmission.lowdiatribe.net/feed.xml).
 
 Stay updated: [RSS feed](https://lowdiatribe.net/feed.xml) | [JSON feed](https://lowdiatribe.net/feed.json)
 
