@@ -5,7 +5,7 @@ date: 2025-12-12
 
 Hi {{firstName}},
 
-We've entered the Hoth Era here — two significant snowfalls in as many weeks. Both times, the pattern has been identical.
+We've entered the Hoth Era in my part of the States — two significant snowfalls in as many weeks. Both times, the pattern has been identical.
 
 The snow falls. I fishtail on the interstate. My hands grip the wheel. Every muscle tightens. For the rest of the day, I drive like my grandmother is in the passenger seat holding a tray of hot coffee with no lids.
 
