@@ -1,4 +1,9 @@
-Subject: New reflection: Batteries not necessarily included
+# Email Announcement: Batteries not necessarily included
+
+---
+subject: New reflection: Batteries not necessarily included
+scheduled: 2026-02-20 @ 12:00 PM CST
+---
 
 Hi {{firstName}},
 
