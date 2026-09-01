@@ -6,9 +6,9 @@ scheduled: 2026-09-01 @ 11:00 AM CDT
 
 Hi {{firstName}},
 
-I am halfway through a consulting contract that, ten years ago, would have ended a search I didn't know I was running.
+I am halfway through a consulting contract that, twenty years ago, would have ended a search I didn't know I was running.
 
-Ample compensation. Total freedom. Less than two hours of meetings a week. The work sits at the edge of what I know — familiar enough to be useful, unfamiliar enough to hold my attention. The client is good. I am glad to be there. By every spec I would have written for myself at thirty, this is it.
+Ample compensation. Total freedom. Roughly two hours of meetings a week. The work sits at the edge of what I know — familiar enough to be useful, unfamiliar enough to hold my attention. The client is good. I am glad to be there. By every spec I would have written for myself at thirty, this is it.
 
 And I spent the first half keeping it at arm's length.
 
