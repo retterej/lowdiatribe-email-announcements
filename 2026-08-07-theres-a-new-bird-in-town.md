@@ -1,6 +1,5 @@
-Subject: New reflection: There's a new bird in town
-
 ---
+Subject: New reflection: There's a new bird in town
 scheduled: 2026-08-07 @ 11:00 AM CDT
 ---
 

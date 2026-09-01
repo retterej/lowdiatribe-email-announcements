@@ -1,6 +1,5 @@
-Subject: New reflection: The crack was always there
-
----
+----
+subject: New reflection: The crack was always there
 scheduled: 2026-08-04 @ 11:00 AM CDT
 ---
 

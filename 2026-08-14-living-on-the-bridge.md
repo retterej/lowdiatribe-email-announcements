@@ -1,6 +1,5 @@
-Subject: New reflection: Living on the bridge
-
 ---
+subject: New reflection: Living on the bridge
 scheduled: 2026-08-14 @ 11:00 AM CDT
 ---
 

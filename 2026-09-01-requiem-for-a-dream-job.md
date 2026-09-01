@@ -1,6 +1,5 @@
-Subject: New reflection: Requiem for a dream job
-
 ---
+subject: New reflection: Requiem for a dream job
 scheduled: 2026-09-01 @ 11:00 AM CDT
 ---
 

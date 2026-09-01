@@ -1,6 +1,5 @@
-Subject: New reflection: It's all means
-
 ---
+subject: New reflection: It's all means
 scheduled: 2026-08-11 @ 11:00 AM CDT
 ---
 
