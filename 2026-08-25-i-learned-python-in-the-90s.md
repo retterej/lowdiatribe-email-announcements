@@ -1,6 +1,5 @@
-Subject: New reflection: I learned Python in the 90s
-
 ---
+subject: New reflection: I learned Python in the 90s
 scheduled: 2026-08-25 @ 11:00 AM CDT
 ---
 
